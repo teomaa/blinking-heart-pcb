@@ -1,4 +1,6 @@
 # Heartbeat
+![demo gif](./demo.gif)
+
 Heartbeat is a piece of art created by me for Creative Embedded Systems, a class at Columbia University. It is an etched PCB with a few basic soldered components, which make an LED blink. The PCB is heart-shaped, and the traces on the board trace the shape of a heart as well.
 
 By following this guide, you will able to recreate this piece with just a few cheap parts, the necessary equipment, and some basic soldering abilities.
